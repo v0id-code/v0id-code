@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing :)<br>🤝 I’m looking for help with my mental health<br>🌱 I’m currently learning java/c#/c++<br>
+🔭 I’m currently working on nothing :)<br>🌱 I’m currently learning java/c#/c++<br>
 
 
  
